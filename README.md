@@ -1,4 +1,7 @@
 # Shell-Scripts
-Shell
 
-But, Wang Qi is Noob.
+Shell Scripts 
+
+NAS -> 
+    ConfigNfs.sh 
+    ConfigSamba.sh
