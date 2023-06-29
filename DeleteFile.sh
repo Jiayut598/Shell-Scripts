@@ -3,7 +3,7 @@
 # find /tmp -type f > /root/a
 # Usage : ./DeleteFile.sh /root/a &> /root/log
 
-# 10s
+# sleep 10s
 interval=10
 
 while read f
